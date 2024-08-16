@@ -1,0 +1,9 @@
+.descrição-produto 
+,.descrição-game {
+    background-color: blueviolet;
+    color: aqua;
+} 
+
+.promoçao { 
+    border: solid 10px green;
+}
